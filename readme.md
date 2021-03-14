@@ -17,7 +17,7 @@ For an interesting idea, stay tuned for my next hackathon 👀 so please don't b
 - For peeking database access results on `http://localhost:12345/peekIndexedDB` after which it would look like
 
 
-![db result](./database.png)
+![db result](./database.PNG)
 
 ## Tech Stack 🧱
 
